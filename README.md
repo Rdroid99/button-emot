@@ -9,9 +9,9 @@ Ini untuk menambah tombol ditermux dan bisa juga dengan nama kalian
 
   >• pkg install git
 
-  >• git clone https://github.com/Rdroid99/Button-emot
+  >• git clone https://github.com/Rdroid99/button-emot
 
-  >• cd Button-emot
+  >• cd button-emot
 
   >• python Tambah-button.py
 
